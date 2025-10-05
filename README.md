@@ -7,8 +7,7 @@ This project is part of a web development assignment that combines structure, st
 
 ## 🌐 **Live Demo**
 
-👉 [View Live Site](https://your-live-link-here.com)  
-*(Replace with your deployed GitHub Pages / Netlify / Vercel link)*
+👉 [View Live Site] (https://juju0782.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/) 
 
 ---
 
