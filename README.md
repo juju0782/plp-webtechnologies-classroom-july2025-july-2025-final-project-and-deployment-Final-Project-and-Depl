@@ -1,90 +1,36 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🧭 Travel Bliss — Travel Blog Landing Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Welcome to **Travel Bliss**, a vibrant and responsive **multi-page travel blog website** built with **HTML5**, **CSS3**, and **JavaScript**.  
+This project is part of a web development assignment that combines structure, styling, interactivity, and deployment into a single cohesive website.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🌐 **Live Demo**
 
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+👉 [View Live Site](https://your-live-link-here.com)  
+*(Replace with your deployed GitHub Pages / Netlify / Vercel link)*
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📌 **Project Overview**
 
-Before deployment, refactor your project to follow production-friendly practices:
+The **Travel Bliss** website is designed to give users a clean and inspiring travel experience. It features multiple pages, responsive layouts, interactive elements, and smooth CSS transitions.
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+### 📄 Pages Included:
+- 🏠 **Home (`index.html`)** — Hero section, featured destinations, and navigation.  
+- 👤 **About (`about.html`)** — Information about the travel blog with a responsive split layout.  
+- 🧭 **Services (`services.html`)** — Displays travel-related services in animated cards.  
+- 🖼️ **Gallery (`gallery.html`)** — Showcases travel destinations in a responsive image grid.  
+- ✉️ **Contact (`contact.html`)** — Functional contact form with JavaScript validation.
 
 ---
 
-## Deliverables
+## 🧰 **Tech Stack**
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+- **HTML5** – Semantic markup for structure  
+- **CSS3** – Responsive styling, vibrant color themes, transitions, and animations  
+- **JavaScript (Vanilla)** – Navigation toggle, form validation, and interactive features  
+- **Responsive Design** – Fully mobile-friendly layout using CSS Grid and Flexbox
 
 ---
 
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
